@@ -1,5 +1,5 @@
 from grammar import Grammar as Gr
-from MINE import unreachableSymbols
+from algoritm import unreachableSymbols
 
 g = Gr(
     {'A', 'B', 'C','D'},
